@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+I'm Jessy, **Software Engineer** at **Espressif Systems**. 
+
+- 🔭 Maintainer of [esp-wifi](https://github.com/espressif/esp32-wifi-lib)
+- 🌱 Maintainer of [esp-lwip](https://github.com/espressif/esp-lwip)
+- 👯 Developer of [esp-idf](https://github.com/espressif/esp-idf)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MaxwellAlan.MaxwellAlan)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+## 🔧 Skills
+
+- ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+- ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
+- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+- ![](https://img.shields.io/badge/Code-Verilog-informational?style=flat&logo=V&logoColor=white&color=6aa6f8)
+
+## 💬Contact
+
+- ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FoAlanMaxwello)
+
 <!--
 **MaxwellAlan/MaxwellAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
