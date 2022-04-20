@@ -2,9 +2,9 @@
 
 I'm Jessy, **Software Engineer** at **Espressif Systems**. 
 
-- 🔭 Maintainer of [esp-wifi](https://github.com/espressif/esp32-wifi-lib)
-- 🌱 Maintainer of [esp-lwip](https://github.com/espressif/esp-lwip)
-- 👯 Developer of [esp-idf](https://github.com/espressif/esp-idf)
+- 🔭 Maintainer of [esp-wifi](https://github.com/espressif/esp32-wifi-lib) ![](https://img.shields.io/github/stars/espressif/esp32-wifi-lib?style=plastic)
+- 🌱 Maintainer of [esp-lwip](https://github.com/espressif/esp-lwip) ![](https://img.shields.io/github/stars/espressif/esp-lwip?style=plastic)
+- 👯 Developer of [esp-idf](https://github.com/espressif/esp-idf) ![](https://img.shields.io/github/stars/espressif/esp-idf?style=plastic)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MaxwellAlan.MaxwellAlan)
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -18,7 +18,7 @@ I'm Jessy, **Software Engineer** at **Espressif Systems**.
 
 ## 💬Contact
 
-- ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FoAlanMaxwello)
+- ![](https://img.shields.io/twitter/follow/oAlanMaxwello?style=social)
 
 <!--
 **MaxwellAlan/MaxwellAlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
